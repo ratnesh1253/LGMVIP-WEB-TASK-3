@@ -37,13 +37,9 @@ Contributing
 
 Contributions are welcome! If you'd like to enhance the project or fix any issues, please fork the repository and create a pull request.
 
-License
-
-This project is open-source and available under the MIT License (LICENSE).
-
 Contact
 
-- LinkedIn Profile: [https://in.linkedin.com/in/ratnesh-kshirsagar]
+- LinkedIn Profile: https://in.linkedin.com/in/ratnesh-kshirsagar
 - Email: ratneshkshirsagar1253@gmail.com
 
 Acknowledgments
