@@ -43,8 +43,8 @@ This project is open-source and available under the MIT License (LICENSE).
 
 Contact
 
-- LinkedIn Profile: [insert_link_to_linkedin]
-- Email: your@email.com
+- LinkedIn Profile: [https://in.linkedin.com/in/ratnesh-kshirsagar]
+- Email: ratneshkshirsagar1253@gmail.com
 
 Acknowledgments
 
