@@ -3,9 +3,6 @@ Simple Calculator Web App
 
 A basic web-based calculator created during my web development internship at LetsGrowMore.
 
-![Calculator Screenshot](![screenshot](https://github.com/ratnesh1253/LGMVIP-WEB-TASK-2/assets/136190108/c683dc3f-b4da-4557-b3d0-335b4f552fde)
-)
-
 Technologies Used
 
 - HTML: For structuring the web page.
