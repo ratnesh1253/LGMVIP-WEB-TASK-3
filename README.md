@@ -3,7 +3,8 @@ Simple Calculator Web App
 
 A basic web-based calculator created during my web development internship at LetsGrowMore.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](![screenshot](https://github.com/ratnesh1253/LGMVIP-WEB-TASK-2/assets/136190108/c683dc3f-b4da-4557-b3d0-335b4f552fde)
+)
 
 Technologies Used
 
@@ -21,13 +22,9 @@ Features
 
 Usage
 
-1. Clone the repository:
+1. Open the index.html file in your web browser.
 
-   git clone [repository_url]
-
-2. Open the index.html file in your web browser.
-
-3. Use the calculator by clicking the buttons.
+2. Use the calculator by clicking the buttons.
 
 Demo
 
