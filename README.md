@@ -25,7 +25,7 @@ Usage
 
 Demo
 
-You can check out the live demo of the Simple Calculator [here](insert_demo_link).
+You can check out the live demo of the Simple Calculator [https://www.linkedin.com/posts/ratnesh-kshirsagar_webdevelopment-virtualinternship-letsgrowmore-activity-7125043330287104000-HIcb?utm_source=share&utm_medium=member_android]
 
 Contributing
 
