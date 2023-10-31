@@ -1,4 +1,4 @@
-# LGMVIP-WEB-TASK-2
+# LGMVIP-WEB-TASK-3
 Simple Calculator Web App
 
 A basic web-based calculator created during my web development internship at LetsGrowMore.
