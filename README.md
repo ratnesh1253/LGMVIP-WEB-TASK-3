@@ -23,10 +23,6 @@ Usage
 
 2. Use the calculator by clicking the buttons.
 
-Demo
-
-You can check out the live demo of the Simple Calculator [https://www.linkedin.com/posts/ratnesh-kshirsagar_webdevelopment-virtualinternship-letsgrowmore-activity-7125043330287104000-HIcb?utm_source=share&utm_medium=member_android]
-
 Contributing
 
 Contributions are welcome! If you'd like to enhance the project or fix any issues, please fork the repository and create a pull request.
