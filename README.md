@@ -28,7 +28,7 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 Contact
 
-- LinkedIn Profile: https://in.linkedin.com/in/ratnesh-kshirsagar
+- LinkedIn Profile: https://in.linkedin.com/in/ratnesh1253
 - Email: ratneshkshirsagar1253@gmail.com
 
 Acknowledgments
